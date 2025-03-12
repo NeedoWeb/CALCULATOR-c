@@ -1,2 +1,1 @@
-# CALCULATOR-c
-How to create calculator with c
+create calculator with AVR(C) & run in PROTEUS simulink
